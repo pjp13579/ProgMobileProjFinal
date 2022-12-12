@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.recycleviewpilot2.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.recycleviewpilot2.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\paulo\\.gradle\\daemon\\7.4\\com.example.recycleviewpilot2.app-mergeDebugResources-48:\\layout\\fragment_loading.xml",
+        "source": "C:\\Users\\paulo\\.gradle\\daemon\\7.4\\com.example.recycleviewpilot2.app-main-51:\\layout\\fragment_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\paulo\\.gradle\\daemon\\7.4\\com.example.recycleviewpilot2.app-mergeDebugResources-48:\\layout\\sockets_manager.xml",
+        "source": "C:\\Users\\paulo\\.gradle\\daemon\\7.4\\com.example.recycleviewpilot2.app-main-51:\\layout\\sockets_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\paulo\\.gradle\\daemon\\7.4\\com.example.recycleviewpilot2.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\paulo\\.gradle\\daemon\\7.4\\com.example.recycleviewpilot2.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\paulo\\.gradle\\daemon\\7.4\\com.example.recycleviewpilot2.app-mergeDebugResources-48:\\layout\\fragment_news_activity.xml",
+        "source": "C:\\Users\\paulo\\.gradle\\daemon\\7.4\\com.example.recycleviewpilot2.app-main-51:\\layout\\fragment_news_activity.xml"
+    }
+]
